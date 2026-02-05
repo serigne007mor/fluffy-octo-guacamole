@@ -1,0 +1,39 @@
+{
+  "name": "fluffy-octo-guacamole",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/serigne007mor/fluffy-octo-guacamole.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/serigne007mor/fluffy-octo-guacamole/issues"
+  },
+  "homepage": "https://github.com/serigne007mor/fluffy-octo-guacamole#readme",
+  "dependencies": {
+    "@types/node": "^25.2.0",
+    "@types/react": "^19.2.13",
+    "@types/react-dom": "^19.2.3",
+    "next": "^16.1.6",
+    "react": "^19.2.4",
+    "react-dom": "^19.2.4",
+    "typescript": "^5.9.3"
+  },
+  "devDependencies": {
+    "@tailwindcss/forms": "^0.5.11",
+    "@tailwindcss/postcss": "^4.1.18",
+    "autoprefixer": "^10.4.24",
+    "postcss": "^8.5.6",
+    "tailwindcss": "^4.1.18"
+  }
+}
